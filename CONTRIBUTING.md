@@ -1,7 +1,7 @@
 # How to contribute
 
 ## Notes
-
+You should check this change manually.
 1.  Only [Root CNAs](https://cve.mitre.org/cve/cna.html) or other members of the CVE Automation Working Group should create
 pull requests or open issues in this repository currently.  Going
 forward, we hope to allow wider participation; eg, from
